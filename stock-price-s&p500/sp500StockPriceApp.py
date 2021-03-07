@@ -108,3 +108,4 @@ try:
 
 except ValueError:
     st.error('&#9888 Choose a company sector at sidebar and wait your data be loaded.')
+    
